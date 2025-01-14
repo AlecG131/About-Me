@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 Nice to see you!</h1>
+<h1 align="left">Hey 👋 Thanks for the visit!</h1>
 
 ###
 
@@ -6,19 +6,11 @@
 
 ###
 
-<h2 align="left">Skills in:</h2>
+<h2 align="left">📚 Skills in:</h2>
 
 ###
 
-<p align="left">📚 Operating Systems: Windows Server, Linux (Ubuntu, Kali)<br>Security Practices: Vulnerability Assessment, Incident Response, Firewall Configuration, Intrusion Detection/Prevention<br>Programming/Scripting: Python, Bash, PowerShell<br>Cloud Technologies: AWS Security, Azure Fundamentals<br>Networking & Security Tools: Cisco Packet Tracer, Wireshark, NMAP, Metasploit<br>Threat Analysis: Malware Analysis, Threat Intelligence, Log Analysis (SIEM tools like Nessus Essentials)</p>
-
-###
-
-<h2 align="left">Who am I?😁</h2>
-
-###
-
-<p align="left">A highly motivated and creative cybersecurity enthusiast with a passion for technology and problem-solving. Equipped with hands-on experience in network security, vulnerability assessment, and system administration, I am driven to help organizations strengthen their security posture. With a strong foundation in industry standards (NIST, HIPAA, CIA triad), along with experience in security tools like Kali Linux, Nmap, Wireshark, and Metasploit, I am eager to contribute my skills to dynamic cybersecurity roles.</p>
+<p align="left">Operating Systems: Windows Server, Linux (Ubuntu, Kali)<br>Security Practices: Vulnerability Assessment, Incident Response, Firewall Configuration, Intrusion Detection/Prevention<br>Programming/Scripting: Python, Bash, PowerShell<br>Cloud Technologies: AWS Security, Azure Fundamentals<br>Networking & Security Tools: Cisco Packet Tracer, Wireshark, NMAP, Metasploit<br>Threat Analysis: Malware Analysis, Threat Intelligence, Log Analysis (SIEM tools like Nessus Essentials)</p>
 
 ###
 
@@ -35,6 +27,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
 </div>
+
+###
+
+<h2 align="left">Who am I?😁</h2>
+
+###
+
+<p align="left">A highly motivated and creative cybersecurity enthusiast with a passion for technology and problem-solving. Equipped with hands-on experience in network security, vulnerability assessment, and system administration, I am driven to help organizations strengthen their security posture. With a strong foundation in industry standards (NIST, HIPAA, CIA triad), along with experience in security tools like Kali Linux, Nmap, Wireshark, and Metasploit, I am eager to contribute my skills to dynamic cybersecurity roles.</p>
 
 ###
 
